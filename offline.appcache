@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1480348680
+#1480355986
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -8,6 +8,7 @@ images/player-sheet0.png
 images/enemy-sheet0.png
 images/shoot-sheet0.png
 images/explosion-sheet0.png
+images/sprite-sheet0.png
 media/Único%20tiro%20de%20canhão%20(online-audio-converter.com).ogg
 media/explosão,%20explodir.ogg
 media/explosão%20de%20fogos%20de%20artifício%20warfare%20bang%20boom%20explosão%2001.ogg
